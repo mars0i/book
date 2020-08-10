@@ -1,4 +1,4 @@
-;; Clojure programs for 
+;; Clojure programs for book
 ;; Not necessarily designed to be efficient
 
 (ns envsch.core
