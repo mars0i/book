@@ -19,6 +19,8 @@ N=100 Wright-Fisher plots in chapter 1 of the book.
 
 ---
 
+### Building this softwre for other operating systems:
+
 The following instructions are tenative and probably need revison.
 (They are more likely to work on Linux and MacOS than Windows, but
 there should be a way to build this program on Windows.)
